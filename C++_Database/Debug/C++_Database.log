@@ -1,0 +1,5 @@
+﻿  C++_Database.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+  C++_Database.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  C++_Database.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  C++_Database.vcxproj -> C:\Users\salee\Desktop\C++ 2 remaining\C++_Database\C++_Database\Debug\C++_Database.exe
